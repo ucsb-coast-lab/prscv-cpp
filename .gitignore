@@ -1,0 +1,6 @@
+pass_arrays
+build/*
+sample.png
+process_image
+prscv/test_images/*.png
+prscv/test_images/*.jpeg
